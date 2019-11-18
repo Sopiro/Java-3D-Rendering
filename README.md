@@ -2,4 +2,4 @@
 
 cpu 3d rendering  
 written in pure java  
-[youtube](http://www.youtube.com).
+[youtube](https://www.youtube.com/playlist?list=PLr777aUnfMzgUqEN6iZq2hjm5cFHmqzdo)
