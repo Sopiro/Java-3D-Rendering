@@ -1,3 +1,4 @@
-# Rendering3D
+# Rendering 3D world
 
-cpu 3d rendering
+cpu 3d rendering  
+written in pure java  
